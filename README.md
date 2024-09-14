@@ -1,6 +1,7 @@
 Reddix-NL/README.md
 
 👋 Hi, I’m @Reddix-NL
+
 👀 Interest in Python, mIRC, HTML, PHP, SQL, Python, JavaScript, 
 C++, Java, Swift, Kotlin, TypeScript, Perl, Rust, Scala, AI, VB, 
 Trading Alg bots & more
