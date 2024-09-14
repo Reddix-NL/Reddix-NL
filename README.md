@@ -1,4 +1,14 @@
-## Hi there 👋
+Reddix-NL/README.md
+
+👋 Hi, I’m @Reddix-NL
+👀 Interest in Python, mIRC, HTML, PHP, SQL, Python, JavaScript, 
+C++, Java, Swift, Kotlin, TypeScript, Perl, Rust, Scala, AI, VB, 
+Trading Alg bots & more
+
+📚✍🏼🎓 I’m currently learning Neural Networks and python.
+💞️ Yes i am a coder and single like all coders!.
+📫 Want to reach me? (coming soon)
+
 
 <!--
 **Reddix-NL/Reddix-NL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
