@@ -1,5 +1,3 @@
-Reddix-NL/README.md
-
 👋 Hi, I’m @Reddix-NL
 
 👀 Interest in Python, mIRC, HTML, PHP, SQL, Python, JavaScript, 
