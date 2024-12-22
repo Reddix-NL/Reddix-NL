@@ -1,6 +1,6 @@
 👋 Hi, I’m @Reddix-NL
 
-👀 Interest in Python, mIRC, HTML, PHP, SQL, Python, JavaScript, 
+👀 Interest in Python, mIRC, HTML, PHP, SQL, JavaScript, 
 C++, Java, Swift, Kotlin, TypeScript, Perl, Rust, Scala, AI, VB, 
 
 Trading Alg bots & more
